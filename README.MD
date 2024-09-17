@@ -1,4 +1,6 @@
 
+  <title>Levantamento de Requisitos para um Sistema de Controle de Estacionamento</title>
+
 <body>
   <h1>Levantamento de Requisitos para um Sistema de Controle de Estacionamento</h1>
   <p>Base: Estacionamento do Shopping Patio Chapecó</p>
@@ -19,35 +21,22 @@
           <th>Resposta</th>
         </tr>
       </thead>
-      <tbody>
-        <tr>
-          <td>
-            <h3>O que você acha do estacionamento?</h3>
-          </td>
-          <td>
-            <p>Todos os entrevistados avaliaram o estacionamento como um bom estacionamento sem muitos comentários sobre ele, exceto sobre seu valor, que poderia ser mais barato.</p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <h3>Você acha que o estacionamento poderia melhorar em algo?</h3>
-          </td>
-          <td>
-            <p>Dentre os entrevistados, a grande maioria não apontou nenhuma melhoria, pois achavam o estacionamento bom o suficiente da forma que estava. No entanto, alguns sugeriram que fosse adicionada alguma forma de organização para que os carros possam trafegar pelo estacionamento de forma mais fluida, já que frequentemente há situações de bloqueios devido ao grande fluxo de carros.</p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <h3>Acha que o estacionamento é seguro? Se não, quais motivos e como pode melhorar?</h3>
-          </td>
-          <td>
-            <p>Nesta parte da entrevista, tivemos um resultado de respostas unânime. Todos os entrevistados concordam que o sistema de segurança do estacionamento é muito bom e não acham que precisa de alguma melhoria.</p>
-          </td>
-        </tr>
+      <tr>
+        <td><h3>O que você acha do estacionamento?</h3></td>
+        <td>Todos os entrevistados avaliaram o estacionamento como um bom estacionamento sem muitos comentários sobre ele, exceto sobre seu valor, que poderia ser mais barato.</td>
+      </tr>
+      <tr>
+        <td><h3>Você acha que o estacionamento poderia melhorar em algo?</h3></td>
+        <td>Dentre os entrevistados, a grande maioria não apontou nenhuma melhoria, pois achavam o estacionamento bom o suficiente da forma que estava. No entanto, alguns sugeriram que fosse adicionada alguma forma de organização para que os carros possam trafegar pelo estacionamento de forma mais fluida, já que frequentemente há situações de bloqueios devido ao grande fluxo de carros.</td>
+      </tr>
+      <tr>
+        <td><h3>Acha que o estacionamento é seguro? Se não, quais motivos e como pode melhorar?</h3></td>
+        <td>Nesta parte da entrevista, tivemos um resultado de respostas unânime. Todos os entrevistados concordam que o sistema de segurança do estacionamento é muito bom e não acham que precisa de alguma melhoria.</td>
+      </tr>
     </table>
   </section>
 
-<section>
+  <section>
     <h2>Pontos Críticos</h2>
     <ul>
       <li>Em caso de algum problema ou perda do cartão causará problemas para efetuar o pagamento e consequentemente para a saída do veículo.</li>
@@ -75,7 +64,7 @@
 
   <section>
     <h2>Requisitos Funcionais</h2>
-    <table>
+    <table border="1" cellpadding="8" cellspacing="0">
       <tr>
         <th style="width: 25%;">Título</th>
         <th>Descrição</th>
@@ -109,7 +98,7 @@
 
   <section>
     <h2>Requisitos Não Funcionais</h2>
-    <table>
+    <table border="1" cellpadding="8" cellspacing="0">
       <tr>
         <th style="width: 25%;">Título</th>
         <th>Descrição</th>
@@ -144,7 +133,5 @@
       </tr>
     </table>
   </section>
-
-
 </body>
-
+</html>
