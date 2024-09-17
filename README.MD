@@ -35,28 +35,59 @@
 
   <section>
     <h2>Pontos Críticos</h2>
-    <ul>
-      <li>Em caso de algum problema ou perda do cartão causará problemas para efetuar o pagamento e consequentemente para a saída do veículo.</li>
-      <li>Possível falha no sistema de detecção de vagas disponíveis poderá ocasionar um “falso positivo” onde o sistema identifica uma vaga vazia como ocupada, causando uma possível confusão e atrapalhando a localização de vagas.</li>
-    </ul>
+    <table border="1" cellpadding="8" cellspacing="0">
+      <thead>
+        <tr>
+          <th>Ponto Crítico</th>
+        </tr>
+      </thead>
+      <tr>
+        <td>Em caso de algum problema ou perda do cartão causará problemas para efetuar o pagamento e consequentemente para a saída do veículo.</td>
+      </tr>
+      <tr>
+        <td>Possível falha no sistema de detecção de vagas disponíveis poderá ocasionar um “falso positivo” onde o sistema identifica uma vaga vazia como ocupada, causando uma possível confusão e atrapalhando a localização de vagas.</td>
+      </tr>
+    </table>
   </section>
 
   <section>
     <h2>Áreas para Melhorias</h2>
-    <ul>
-      <li>Uma melhoria no sistema de identificação da entrada e saída de veículos, podendo evitar erros com o cartão.</li>
-      <li>Organização na procura de vagas dentro do estacionamento a fim de evitar transtornos durante a procura de uma vaga.</li>
-    </ul>
+    <table border="1" cellpadding="8" cellspacing="0">
+      <thead>
+        <tr>
+          <th>Área para Melhoria</th>
+        </tr>
+      </thead>
+      <tr>
+        <td>Uma melhoria no sistema de identificação da entrada e saída de veículos, podendo evitar erros com o cartão.</td>
+      </tr>
+      <tr>
+        <td>Organização na procura de vagas dentro do estacionamento a fim de evitar transtornos durante a procura de uma vaga.</td>
+      </tr>
+    </table>
   </section>
 
   <section>
     <h2>Funcionalidades Adicionais</h2>
-    <ul>
-      <li>Aplicação de um app para mapeamento de vagas disponíveis, mostrando a localização exata da vaga e guiando o motorista para a mesma, assim agilizando e facilitando o uso do estacionamento. Desta forma também criaria uma maior fluidez no tráfego de veículos.</li>
-      <li>Criação de um sistema para cadastro e criação de uma conta para o estacionamento, permitindo ao motorista utilizar um sistema de recarga de créditos para pagamento do estacionamento, permitindo que o mesmo não precise parar para pagar o estacionamento e assim somente descontado do crédito da conta. Este sistema funcionaria através de um leitor de placas que identificaria o carro cadastrado na conta do usuário.</li>
-      <li>O aplicativo também contaria com um sistema de alerta para avisar o usuário de quanto tempo ele pode ficar estacionado antes que se esgote o crédito do cartão. Em caso de esgotamento, o aplicativo permitirá que o pagamento do tempo adicional seja feito dentro do mesmo, visando praticidade para o usuário. Também podendo contar com descontos para quem possuir cadastro.</li>
-      <li>Sistema de feedback para o estacionamento, permitindo críticas e sugestões de melhorias para o estacionamento, assim possibilitando novas melhorias e um maior conforto do cliente.</li>
-    </ul>
+    <table border="1" cellpadding="8" cellspacing="0">
+      <thead>
+        <tr>
+          <th>Funcionalidade</th>
+        </tr>
+      </thead>
+      <tr>
+        <td>Aplicação de um app para mapeamento de vagas disponíveis, mostrando a localização exata da vaga e guiando o motorista para a mesma, assim agilizando e facilitando o uso do estacionamento. Desta forma também criaria uma maior fluidez no tráfego de veículos.</td>
+      </tr>
+      <tr>
+        <td>Criação de um sistema para cadastro e criação de uma conta para o estacionamento, permitindo ao motorista utilizar um sistema de recarga de créditos para pagamento do estacionamento, permitindo que o mesmo não precise parar para pagar o estacionamento e assim somente descontado do crédito da conta. Este sistema funcionaria através de um leitor de placas que identificaria o carro cadastrado na conta do usuário.</td>
+      </tr>
+      <tr>
+        <td>O aplicativo também contaria com um sistema de alerta para avisar o usuário de quanto tempo ele pode ficar estacionado antes que se esgote o crédito do cartão. Em caso de esgotamento, o aplicativo permitirá que o pagamento do tempo adicional seja feito dentro do mesmo, visando praticidade para o usuário. Também podendo contar com descontos para quem possuir cadastro.</td>
+      </tr>
+      <tr>
+        <td>Sistema de feedback para o estacionamento, permitindo críticas e sugestões de melhorias para o estacionamento, assim possibilitando novas melhorias e um maior conforto do cliente.</td>
+      </tr>
+    </table>
   </section>
 
   <section>
@@ -131,4 +162,3 @@
     </table>
   </section>
 </body>
-</html>
