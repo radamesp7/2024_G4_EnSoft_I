@@ -4,8 +4,6 @@
  <h2> Equipe  </h2>
 <p> Andre Gabrielli da Silva, Arthur Couto Mulling e Gustavo Henrique Telo. </p>
 
- <h3> Chapecó, 16 de setembro de 2024. </h3>
-
  <h1> Descrição do Sistema </h1>
 
 O estacionamento controla o momento de entrada e saida dos veiculos utilizando de um cartao que é emitido antes da entrada e recolhido antes da saida
