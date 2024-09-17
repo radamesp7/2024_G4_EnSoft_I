@@ -25,11 +25,11 @@ Para a saida do veiculo tera que ser paga a taxa registrada por tempo no cartão
 </table>
 
 <img 
-src="https://app.diagrams.net/#G1NUGBsonPujTVp-uYZP0wePRI3m3fGDyg#%7B%22pageId%22%3A%222JnSQlSYLmU3ISGfXkrO%22%7D"
-aling="right"
-width="70" 
-height="85" 
-alt="Diagrama UML" />
+    src="https://app.diagrams.net/#G1NUGBsonPujTVp-uYZP0wePRI3m3fGDyg#%7B%22pageId%22%3A%222JnSQlSYLmU3ISGfXkrO%22%7D" 
+    align="right" 
+    width="70" 
+    height="85" 
+    alt="Diagrama UML" />
 
 </section>
 </body>
