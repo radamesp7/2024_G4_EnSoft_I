@@ -11,7 +11,7 @@ O estacionamento controla o momento de entrada e saida dos veiculos utilizando d
 após retirada do cartão e entrada do veiculo o sistema ira contabilizar o tempo o qual o veiculo permaneceu dentro do estacionamento e cobrará uma taxa fixa após 15 (quinze) minutos da entrada.
 Durante a entrada do veiculo dentro do estacionamento, as vagas possuem um sensor para monitoramento das vagas ocupadas, mostrando uma luz verde em caso de vaga livre e uma luz vermelha em caso de vaga ocupada.
 
-
+<section>
 ## Perguntas Feitas em Entrevistas/Respostas
 <table border="1">
   <tr>
@@ -23,4 +23,4 @@ Durante a entrada do veiculo dentro do estacionamento, as vagas possuem um senso
     </td>
   </tr>
 </table>
-
+</section>
