@@ -36,8 +36,7 @@
 </head>
 <body>
   <h1>Levantamento de Requisitos para um Sistema de Controle de Estacionamento</h1>
-  <p><img src="" alt="Brasão" width="70" height="85" class="img-right"/> Base: Estacionamento do Shopping Patio Chapecó</p>
-
+  
   <h2>Equipe</h2>
   <p>Andre Gabrielli da Silva, Arthur Couto Mulling e Gustavo Henrique Telo.</p>
 
