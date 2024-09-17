@@ -12,7 +12,7 @@ após retirada do cartão e entrada do veiculo o sistema ira contabilizar o temp
 Durante a entrada do veiculo dentro do estacionamento, as vagas possuem um sensor para monitoramento das vagas ocupadas, mostrando uma luz verde em caso de vaga livre e uma luz vermelha em caso de vaga ocupada.
 
 <section>
-## Perguntas Feitas em Entrevistas/Respostas
+<h2> Perguntas Feitas em Entrevistas/Respostas </h2>
 <table border="1">
   <tr>
     <td style="width: 25%; border: 2px solid black;">
