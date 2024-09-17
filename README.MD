@@ -28,7 +28,7 @@
       margin-left: 10px;
     }
   </style>
-</head>
+
 <body>
   <h1>Levantamento de Requisitos para um Sistema de Controle de Estacionamento</h1>
   
