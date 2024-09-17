@@ -1,39 +1,9 @@
-
-  
-
+<title>Levantamento de Requisitos - Sistema de Controle de Estacionamento</title>
+</head>
 <body>
-
-<style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 20px;
-    }
-    h1, h2 {
-      color: #333;
-    }
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      margin-top: 20px;
-    }
-    td {
-      padding: 10px;
-      vertical-align: top;
-    }
-    th {
-      background-color: #f4f4f4;
-      padding: 10px;
-    }
-    .bordered {
-      border: 2px solid black;
-    }
-    .img-right {
-      float: right;
-      margin-left: 10px;
-    }
-  </style>
   <h1>Levantamento de Requisitos para um Sistema de Controle de Estacionamento</h1>
-  
+  <p>Base: Estacionamento do Shopping Patio Chapecó</p>
+
   <h2>Equipe</h2>
   <p>Andre Gabrielli da Silva, Arthur Couto Mulling e Gustavo Henrique Telo.</p>
 
@@ -43,7 +13,7 @@
 
   <section>
     <h2>Perguntas Feitas em Entrevistas/Respostas</h2>
-    <table class="bordered">
+    <table border="1" cellpadding="8" cellspacing="0">
       <thead>
         <tr>
           <th style="width: 25%;">Pergunta</th>
@@ -52,7 +22,7 @@
       </thead>
       <tbody>
         <tr>
-          <td class="bordered">
+          <td>
             <h3>O que você acha do estacionamento?</h3>
           </td>
           <td>
@@ -60,7 +30,7 @@
           </td>
         </tr>
         <tr>
-          <td class="bordered">
+          <td>
             <h3>Você acha que o estacionamento poderia melhorar em algo?</h3>
           </td>
           <td>
@@ -68,7 +38,7 @@
           </td>
         </tr>
         <tr>
-          <td class="bordered">
+          <td>
             <h3>Acha que o estacionamento é seguro? Se não, quais motivos e como pode melhorar?</h3>
           </td>
           <td>
