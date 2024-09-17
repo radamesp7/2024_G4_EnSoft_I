@@ -1,12 +1,12 @@
 <body>
-# Levantamento de Requisitos para um Sistema de Controle de Estacionamento (Base: Estacionamento do Shopping Patio Chapecó)
+ <h1> Levantamento de Requisitos para um Sistema de Controle de Estacionamento (Base: Estacionamento do Shopping Patio Chapecó)</h1>
 
-## Equipe
-Andre Gabrielli da Silva, Arthur Couto Mulling e Gustavo Henrique Telo.
+ <h2> Equipe  </h2>
+<p> Andre Gabrielli da Silva, Arthur Couto Mulling e Gustavo Henrique Telo. </p>
 
-### Chapecó, 16 de setembro de 2024.
+ <h3> Chapecó, 16 de setembro de 2024. </h3>
 
-# Descrição do Sistema
+ <h1> Descrição do Sistema </h1>
 
 O estacionamento controla o momento de entrada e saida dos veiculos utilizando de um cartao que é emitido antes da entrada e recolhido antes da saida
 após retirada do cartão e entrada do veiculo o sistema ira contabilizar o tempo o qual o veiculo permaneceu dentro do estacionamento e cobrará uma taxa fixa após 15 (quinze) minutos da entrada.
