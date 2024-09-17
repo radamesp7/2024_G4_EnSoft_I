@@ -9,3 +9,4 @@ Andre Gabrielli da Silva, Arthur Couto Mulling e Gustavo Henrique Telo.
   <td> <h3> O que você acha do estacionamento? </h3></td> <td> <p> Todos os entrevistados avaliaram o estacionamento como um bom estacionamento sem muitos comentários sobre ele, exceto sobre seu valor, que poderia ser mais barato.</p></td>
 </tr>
 
+a
