@@ -75,27 +75,74 @@
 
   <section>
     <h2>Requisitos Funcionais</h2>
-    <ul>
-      <li>Controle de acesso de veículos: O sistema deve registrar a entrada e saída de veículos, monitorando o fluxo no estacionamento.</li>
-      <li>Monitoramento da ocupação das vagas: O sistema deve acompanhar em tempo real o status das vagas, indicando quais estão livres ou ocupadas.</li>
-      <li>Processamento de pagamento conforme tempo de permanência: O sistema deve calcular automaticamente o valor do pagamento, aplicando uma tarifa fixa após 15 minutos e uma cobrança adicional a cada hora.</li>
-      <li>Indicação de rotas dentro do estacionamento: O software deve guiar os motoristas com setas e sinais visuais, levando-os até as vagas disponíveis.</li>
-      <li>Relatório de incidentes de segurança: A Equipe de Segurança deve registrar e enviar relatórios de incidentes, como batidas de veículos ou brigas, diretamente pelo sistema.</li>
-      <li>Relatório de manutenção: A Equipe de Manutenção deve registrar e enviar relatórios sempre que houver necessidade de reparos ou ajustes no estacionamento.</li>
-    </ul>
+    <table>
+      <tr>
+        <th style="width: 25%;">Título</th>
+        <th>Descrição</th>
+      </tr>
+      <tr>
+        <td>Controle de acesso de veículos</td>
+        <td>O sistema deve registrar a entrada e saída de veículos, monitorando o fluxo no estacionamento.</td>
+      </tr>
+      <tr>
+        <td>Monitoramento da ocupação das vagas</td>
+        <td>O sistema deve acompanhar em tempo real o status das vagas, indicando quais estão livres ou ocupadas.</td>
+      </tr>
+      <tr>
+        <td>Processamento de pagamento conforme tempo de permanência</td>
+        <td>O sistema deve calcular automaticamente o valor do pagamento, aplicando uma tarifa fixa após 15 minutos e uma cobrança adicional a cada hora.</td>
+      </tr>
+      <tr>
+        <td>Indicação de rotas dentro do estacionamento</td>
+        <td>O software deve guiar os motoristas com setas e sinais visuais, levando-os até as vagas disponíveis.</td>
+      </tr>
+      <tr>
+        <td>Relatório de incidentes de segurança</td>
+        <td>A Equipe de Segurança deve registrar e enviar relatórios de incidentes, como batidas de veículos ou brigas, diretamente pelo sistema.</td>
+      </tr>
+      <tr>
+        <td>Relatório de manutenção</td>
+        <td>A Equipe de Manutenção deve registrar e enviar relatórios sempre que houver necessidade de reparos ou ajustes no estacionamento.</td>
+      </tr>
+    </table>
   </section>
 
   <section>
     <h2>Requisitos Não Funcionais</h2>
-    <ul>
-      <li>Desempenho: O sistema deve processar e atualizar as informações em tempo real, com respostas imediatas (menos de 1 segundo) para monitoramento e transações.</li>
-      <li>Segurança: Todos os dados, incluindo informações de pagamento e relatórios de incidentes, devem ser criptografados para garantir a privacidade e segurança.</li>
-      <li>Escalabilidade: O software deve ser capaz de gerenciar um número crescente de veículos, transações e relatórios sem perda de desempenho.</li>
-      <li>Portabilidade: O sistema deve ser acessível em dispositivos móveis para permitir que administradores e equipes monitorem e registrem atividades remotamente.</li>
-      <li>Usabilidade: A interface do sistema deve ser fácil de usar, permitindo que os administradores e equipes operem sem a necessidade de treinamento especializado.</li>
-      <li>Manutenção: O sistema deve ser modular, facilitando a implementação de atualizações e manutenções sem interrupção do serviço.</li>
-      <li>Auditoria: O sistema deve manter logs detalhados de todas as operações e transações financeiras, armazenados por um período mínimo de 12 meses.</li>
-    </ul>
+    <table>
+      <tr>
+        <th style="width: 25%;">Título</th>
+        <th>Descrição</th>
+      </tr>
+      <tr>
+        <td>Desempenho</td>
+        <td>O sistema deve processar e atualizar as informações em tempo real, com respostas imediatas (menos de 1 segundo) para monitoramento e transações.</td>
+      </tr>
+      <tr>
+        <td>Segurança</td>
+        <td>Todos os dados, incluindo informações de pagamento e relatórios de incidentes, devem ser criptografados para garantir a privacidade e segurança.</td>
+      </tr>
+      <tr>
+        <td>Escalabilidade</td>
+        <td>O software deve ser capaz de gerenciar um número crescente de veículos, transações e relatórios sem perda de desempenho.</td>
+      </tr>
+      <tr>
+        <td>Portabilidade</td>
+        <td>O sistema deve ser acessível em dispositivos móveis para permitir que administradores e equipes monitorem e registrem atividades remotamente.</td>
+      </tr>
+      <tr>
+        <td>Usabilidade</td>
+        <td>A interface do sistema deve ser fácil de usar, permitindo que os administradores e equipes operem sem a necessidade de treinamento especializado.</td>
+      </tr>
+      <tr>
+        <td>Manutenção</td>
+        <td>O sistema deve ser modular, facilitando a implementação de atualizações e manutenções sem interrupção do serviço.</td>
+      </tr>
+      <tr>
+        <td>Auditoria</td>
+        <td>O sistema deve manter logs detalhados de todas as operações e transações financeiras, armazenados por um período mínimo de 12 meses.</td>
+      </tr>
+    </table>
   </section>
 
 
