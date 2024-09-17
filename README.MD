@@ -1,6 +1,3 @@
-
-  <title>Levantamento de Requisitos para um Sistema de Controle de Estacionamento</title>
-
 <body>
   <h1>Levantamento de Requisitos para um Sistema de Controle de Estacionamento</h1>
   <p>Base: Estacionamento do Shopping Patio Chapecó</p>
