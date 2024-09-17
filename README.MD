@@ -1,3 +1,4 @@
+<body>
 # Levantamento de Requisitos para um Sistema de Controle de Estacionamento (Base: Estacionamento do Shopping Patio Chapecó)
 
 ## Equipe
@@ -24,3 +25,4 @@ Durante a entrada do veiculo dentro do estacionamento, as vagas possuem um senso
   </tr>
 </table>
 </section>
+</body>
