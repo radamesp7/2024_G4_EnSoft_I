@@ -1,5 +1,9 @@
 
-  <style>
+  
+
+<body>
+
+<style>
     body {
       font-family: Arial, sans-serif;
       margin: 20px;
@@ -28,8 +32,6 @@
       margin-left: 10px;
     }
   </style>
-
-<body>
   <h1>Levantamento de Requisitos para um Sistema de Controle de Estacionamento</h1>
   
   <h2>Equipe</h2>
