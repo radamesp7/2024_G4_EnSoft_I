@@ -12,24 +12,32 @@ Durante a entrada do veiculo dentro do estacionamento, as vagas possuem um senso
 Para a saida do veiculo tera que ser paga a taxa registrada por tempo no cartão, assim permitindo o cartão a ser devolvido no momento da saida do veiculo, caso contrario, o cartão sera recusado na tentativa de saida sem pagamento.
 
 <section>
-<h2> Perguntas Feitas em Entrevistas/Respostas </h2>
-<table border="1">
-  <tr>
-    <td style="width: 25%; border: 2px solid black;">
-      <h3>O que você acha do estacionamento?</h3>
-    </td>
-    <td>
-      <p>Todos os entrevistados avaliaram o estacionamento como um bom estacionamento sem muitos comentários sobre ele, exceto sobre seu valor, que poderia ser mais barato.</p>
-    </td>
-  </tr>
-</table>
-
-<img 
-    src="https://app.diagrams.net/#G1NUGBsonPujTVp-uYZP0wePRI3m3fGDyg#%7B%22pageId%22%3A%222JnSQlSYLmU3ISGfXkrO%22%7D" 
-    align="right" 
-    width="70" 
-    height="85" 
-    alt="Diagrama UML" />
-
+  <h2>Perguntas Feitas em Entrevistas/Respostas</h2>
+  <table border="1">
+    <tr>
+      <td style="width: 25%; border: 2px solid black;">
+        <h3>O que você acha do estacionamento?</h3>
+      </td>
+      <td>
+        <p>Todos os entrevistados avaliaram o estacionamento como um bom estacionamento sem muitos comentários sobre ele, exceto sobre seu valor, que poderia ser mais barato.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="width: 25%; border: 2px solid black;">
+        <h3>Você acha que o estacionamento poderia melhorar em algo?</h3>
+      </td>
+      <td>
+        <p>Dentre os entrevistados, a grande maioria não apontou nenhuma melhoria, pois achavam o estacionamento bom o suficiente da forma que estava. No entanto, alguns sugeriram que fosse adicionada alguma forma de organização para que os carros possam trafegar pelo estacionamento de forma mais fluida, já que frequentemente há situações de bloqueios devido ao grande fluxo de carros.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="width: 25%; border: 2px solid black;">
+        <h3>Acha que o estacionamento é seguro? Se não, quais motivos e como pode melhorar?</h3>
+      </td>
+      <td>
+        <p>Nesta parte da entrevista, tivemos um resultado de respostas unânime. Todos os entrevistados concordam que o sistema de segurança do estacionamento é muito bom e não acham que precisa de alguma melhoria.</p>
+      </td>
+    </tr>
+  </table>
 </section>
 </body>
