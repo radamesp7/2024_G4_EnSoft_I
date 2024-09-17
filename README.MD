@@ -1,43 +1,86 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Levantamento de Requisitos - Sistema de Controle de Estacionamento</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    h1, h2 {
+      color: #333;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 20px;
+    }
+    td {
+      padding: 10px;
+      vertical-align: top;
+    }
+    th {
+      background-color: #f4f4f4;
+      padding: 10px;
+    }
+    .bordered {
+      border: 2px solid black;
+    }
+    .img-right {
+      float: right;
+      margin-left: 10px;
+    }
+  </style>
+</head>
 <body>
- <h1> Levantamento de Requisitos para um Sistema de Controle de Estacionamento (Base: Estacionamento do Shopping Patio Chapecó)</h1>
+  <h1>Levantamento de Requisitos para um Sistema de Controle de Estacionamento</h1>
+  <p><img src="" alt="Brasão" width="70" height="85" class="img-right"/> Base: Estacionamento do Shopping Patio Chapecó</p>
 
- <h2> Equipe  </h2>
-<p> Andre Gabrielli da Silva, Arthur Couto Mulling e Gustavo Henrique Telo. </p>
+  <h2>Equipe</h2>
+  <p>Andre Gabrielli da Silva, Arthur Couto Mulling e Gustavo Henrique Telo.</p>
 
- <h1> Descrição do Sistema </h1>
+  <h1>Descrição do Sistema</h1>
+  <p>O estacionamento controla o momento de entrada e saída dos veículos utilizando um cartão que é emitido antes da entrada e recolhido antes da saída. Após a retirada do cartão e entrada do veículo, o sistema contabiliza o tempo em que o veículo permaneceu dentro do estacionamento e cobra uma taxa fixa após 15 (quinze) minutos da entrada.</p>
+  <p>Durante a entrada do veículo, as vagas possuem um sensor para monitoramento das vagas ocupadas, mostrando uma luz verde em caso de vaga livre e uma luz vermelha em caso de vaga ocupada. Para a saída do veículo, será necessário pagar a taxa registrada por tempo no cartão, permitindo a devolução do cartão no momento da saída do veículo. Caso contrário, o cartão será recusado na tentativa de saída sem pagamento.</p>
 
-O estacionamento controla o momento de entrada e saida dos veiculos utilizando de um cartao que é emitido antes da entrada e recolhido antes da saida
-após retirada do cartão e entrada do veiculo o sistema ira contabilizar o tempo o qual o veiculo permaneceu dentro do estacionamento e cobrará uma taxa fixa após 15 (quinze) minutos da entrada.
-Durante a entrada do veiculo dentro do estacionamento, as vagas possuem um sensor para monitoramento das vagas ocupadas, mostrando uma luz verde em caso de vaga livre e uma luz vermelha em caso de vaga ocupada.
-Para a saida do veiculo tera que ser paga a taxa registrada por tempo no cartão, assim permitindo o cartão a ser devolvido no momento da saida do veiculo, caso contrario, o cartão sera recusado na tentativa de saida sem pagamento.
-
-<section>
-  <h2>Perguntas Feitas em Entrevistas/Respostas</h2>
-  <table border="1">
-    <tr>
-      <td style="width: 25%; border: 2px solid black;">
-        <h3>O que você acha do estacionamento?</h3>
-      </td>
-      <td>
-        <p>Todos os entrevistados avaliaram o estacionamento como um bom estacionamento sem muitos comentários sobre ele, exceto sobre seu valor, que poderia ser mais barato.</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="width: 25%; border: 2px solid black;">
-        <h3>Você acha que o estacionamento poderia melhorar em algo?</h3>
-      </td>
-      <td>
-        <p>Dentre os entrevistados, a grande maioria não apontou nenhuma melhoria, pois achavam o estacionamento bom o suficiente da forma que estava. No entanto, alguns sugeriram que fosse adicionada alguma forma de organização para que os carros possam trafegar pelo estacionamento de forma mais fluida, já que frequentemente há situações de bloqueios devido ao grande fluxo de carros.</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="width: 25%; border: 2px solid black;">
-        <h3>Acha que o estacionamento é seguro? Se não, quais motivos e como pode melhorar?</h3>
-      </td>
-      <td>
-        <p>Nesta parte da entrevista, tivemos um resultado de respostas unânime. Todos os entrevistados concordam que o sistema de segurança do estacionamento é muito bom e não acham que precisa de alguma melhoria.</p>
-      </td>
-    </tr>
-  </table>
-</section>
+  <section>
+    <h2>Perguntas Feitas em Entrevistas/Respostas</h2>
+    <table class="bordered">
+      <thead>
+        <tr>
+          <th style="width: 25%;">Pergunta</th>
+          <th>Resposta</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="bordered">
+            <h3>O que você acha do estacionamento?</h3>
+          </td>
+          <td>
+            <p>Todos os entrevistados avaliaram o estacionamento como um bom estacionamento sem muitos comentários sobre ele, exceto sobre seu valor, que poderia ser mais barato.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="bordered">
+            <h3>Você acha que o estacionamento poderia melhorar em algo?</h3>
+          </td>
+          <td>
+            <p>Dentre os entrevistados, a grande maioria não apontou nenhuma melhoria, pois achavam o estacionamento bom o suficiente da forma que estava. No entanto, alguns sugeriram que fosse adicionada alguma forma de organização para que os carros possam trafegar pelo estacionamento de forma mais fluida, já que frequentemente há situações de bloqueios devido ao grande fluxo de carros.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="bordered">
+            <h3>Acha que o estacionamento é seguro? Se não, quais motivos e como pode melhorar?</h3>
+          </td>
+          <td>
+            <p>Nesta parte da entrevista, tivemos um resultado de respostas unânime. Todos os entrevistados concordam que o sistema de segurança do estacionamento é muito bom e não acham que precisa de alguma melhoria.</p>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
 </body>
+</html>
