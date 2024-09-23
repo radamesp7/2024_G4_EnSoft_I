@@ -168,7 +168,7 @@
     <tr>
         <td>
             <img
-                src="Diagrama do Estacionamento.drawio.png"
+                src="file:///C:/Users/Arthur%20Mulling/Downloads/Diagrama%20do%20Estacionamento.drawio.png"
                 style="width: 500px; height: 450px; margin: 0 auto;"
             />
         </td>
