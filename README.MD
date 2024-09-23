@@ -161,7 +161,7 @@
 </body>
 
 <h1> Diagrama de caso de uso:
-
+<h2>
 <tbody style="width: 25%; border: 2px solid black; text-align: center;">
     <tr>
         <td>
