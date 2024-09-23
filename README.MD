@@ -109,10 +109,7 @@
         <td>Processamento de pagamento conforme tempo de permanência</td>
         <td>O sistema deve calcular automaticamente o valor do pagamento, aplicando uma tarifa fixa após 15 minutos e uma cobrança adicional a cada hora.</td>
       </tr>
-      <tr>
-        <td>Indicação de rotas dentro do estacionamento</td>
-        <td>O software deve guiar os motoristas com setas e sinais visuais, levando-os até as vagas disponíveis.</td>
-      </tr>
+      
       <tr>
         <td>Relatório de incidentes de segurança</td>
         <td>A Equipe de Segurança deve registrar e enviar relatórios de incidentes, como batidas de veículos ou brigas, diretamente pelo sistema.</td>
