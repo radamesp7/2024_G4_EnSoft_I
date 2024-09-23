@@ -163,3 +163,16 @@
     </table>
   </section>
 </body>
+
+<tbody style="width: 25%; border: 2px solid black; text-align: center;">
+    <tr>
+        <td>
+            <img
+                src="Diagrama do Estacionamento.drawio.png"
+                style="width: 500px; height: 450px; margin: 0 auto;"
+            />
+        </td>
+    </tr>
+    <tr>
+    </tr>
+</tbody>
