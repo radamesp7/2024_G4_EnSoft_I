@@ -3,7 +3,7 @@
   <p>Base: Estacionamento do Shopping Patio Chapecó</p>
 
   <h2>Equipe</h2>
-  <p>Andre Gabrielli da Silva, Arthur Couto Mulling e Gustavo Henrique Telo.</p>
+  <p>Andre Gabrielli da Silva, Arthur Couto Mulling e Gustavo Henrique Teló.</p>
 
   <h1>Descrição do Sistema</h1>
   <p>O estacionamento controla o momento de entrada e saída dos veículos utilizando um cartão que é emitido antes da entrada, abrindo a catraca para dar passagem e recolhido antes da saída. Após a retirada do cartão e entrada do veículo, o sistema contabiliza o tempo em que o veículo permaneceu dentro do estacionamento e cobra uma taxa fixa após 15 (quinze) minutos da entrada.</p>
