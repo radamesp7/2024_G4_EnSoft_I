@@ -168,7 +168,7 @@
     <tr>
         <td>
             <img
-                src="Diagrama do Estacionamento.webp"
+                src="https://github.com/radamesp7/2024_G4_EnSoft_I/blob/main/Diagrama%20do%20Estacionamento.png"
                 style="width: 500px; height: 450px; margin: 0 auto;"
             />
         </td>
