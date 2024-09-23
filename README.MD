@@ -160,6 +160,7 @@
   </section>
 </body>
 
+<h1> Diagrama de caso de uso:
 <tbody style="width: 25%; border: 2px solid black; text-align: center;">
     <tr>
         <td>
