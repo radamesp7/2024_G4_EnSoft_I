@@ -8,7 +8,7 @@
 
 <section>
 
-<h1>Stakeholders</h1>
+<h1><stronger>Stakeholders:<stronger></h1>
 <h3>Usuarios(motoristas)</h3>
 <h3>Administradores do Estacionamento</h3>
 <h3>Equipe de Manutenção</h3>
