@@ -5,12 +5,23 @@
   <h2>Equipe</h2>
   <p>Andre Gabrielli da Silva, Arthur Couto Mulling e Gustavo Henrique Teló.</p>
 
+
+<section>
+
+<h1>Stakeholders</h1>
+<h3>Usuarios(motoristas)</h3>
+<h3>Administradores do Estacionamento</h3>
+<h3>Equipe de Manutenção</h3>
+<h3>Equipe de Segurança</h3>
+
+</section>
+
   <h1>Descrição do Sistema Atual</h1>
   <p>O estacionamento controla o momento de entrada e saída dos veículos utilizando um cartão que é emitido antes da entrada, abrindo a catraca para dar passagem e recolhido antes da saída. Após a retirada do cartão e entrada do veículo, o sistema contabiliza o tempo em que o veículo permaneceu dentro do estacionamento e cobra uma taxa fixa após 15 (quinze) minutos da entrada.</p>
   <p>As vagas dentro do estacionamento possuem um sensor para monitoramento das vagas ocupadas, mostrando uma luz verde em caso de vaga livre e uma luz vermelha em caso de vaga ocupada. Para a saída do veículo, será necessário pagar a taxa registrada por tempo no cartão, permitindo a devolução do cartão no momento da saída do veículo somente se a taxa for paga, assim abrindo a catraca. Caso contrário, o cartão será recusado.</p>
 <p>O pagamento da taxa poderá ser feito dentro do shopping em algumas maquinas/computadores cujo permitem efetuar o pagamento da taxa do cartão por meio delas. O pagamento também pode ser feito com a atendente a qual fica na entrada, ou saida, do shopping em frente ao estacionamento no segundo andar.</p>
 
-  <section>
+<section>
     <h2>Perguntas Feitas em Entrevistas/Respostas</h2>
     <table border="1" cellpadding="8" cellspacing="0">
       <thead>
