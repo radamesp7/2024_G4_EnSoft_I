@@ -9,10 +9,10 @@
 <section>
 
 <h1><strong>Stakeholders:</strong></h1>
-<h3>Usuarios(motoristas)</h3>
-<h3>Administradores do Estacionamento</h3>
-<h3>Equipe de Manutenção</h3>
-<h3>Equipe de Segurança</h3>
+<h3><strong>Usuarios(motoristas)</strong></h3>
+<h3><strong>Administradores do Estacionamento</strong></h3>
+<h3><strong>Equipe de Manutenção</strong></h3>
+<h3><strong>Equipe de Segurança</strong></h3>
 
 </section>
 
