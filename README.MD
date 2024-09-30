@@ -21,6 +21,9 @@
   <p>As vagas dentro do estacionamento possuem um sensor para monitoramento das vagas ocupadas, mostrando uma luz verde em caso de vaga livre e uma luz vermelha em caso de vaga ocupada. Para a saída do veículo, será necessário pagar a taxa registrada por tempo no cartão, permitindo a devolução do cartão no momento da saída do veículo somente se a taxa for paga, assim abrindo a catraca. Caso contrário, o cartão será recusado.</p>
 <p>O pagamento da taxa poderá ser feito dentro do shopping em algumas maquinas/computadores cujo permitem efetuar o pagamento da taxa do cartão por meio delas. O pagamento também pode ser feito com a atendente a qual fica na entrada, ou saida, do shopping em frente ao estacionamento no segundo andar.</p>
 
+O sistema inicia no momento em que o motorista chega nas catracas, localizadas na entrada e saida do estacionamento, gerando um cartão liberar a entrada e iniciando a contagem do tempo permanecido dentro do estacionamento.
+  O motorista entra no estacionamento e de dirige para a vaga livre, localizada pela luz verde acima da vaga, caso a vaga seja ocupada a luz mudará para a cor vermelha. No momento da saída do veículo o motorista deve realizar o pagamento do cartão em uma das maquinas emplementadas dentro do shopping ou com a atendente na proxima a porta do estacionamento. Com o cartão pago, o motorista se dirigirá para a catraca da saída e devolverá o cartão, liberando a passagem pela catraca. Caso o cartão não esteja pago, a catraca não abrirá e ira avisar o motorista para pagar.
+
 <section>
     <h2>Perguntas Feitas em Entrevistas/Respostas</h2>
     <table border="1" cellpadding="8" cellspacing="0">
