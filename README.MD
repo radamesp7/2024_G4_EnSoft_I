@@ -178,7 +178,7 @@
     <tr>
         <td>
             <img
-                src="https://github.com/radamesp7/2024_G4_EnSoft_I/blob/main/Diagrama%20do%20Estacionamento.png"
+                src="Diagrama do Estacionamento (Atualizado).jpg"
                 style="width: 500px; height: 450px; margin: 0 auto;"
             />
         </td>
