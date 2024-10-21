@@ -178,7 +178,7 @@
     <tr>
         <td>
             <img
-                src="Diagrama do Estacionamento (Atualizado).jpg"
+                src="Diagrama do Estacionamento.jpg"
                 style="width: 500px; height: 450px; margin: 0 auto;"
             />
         </td>
