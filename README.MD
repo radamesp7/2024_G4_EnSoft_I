@@ -1,10 +1,19 @@
+<html>
 <body>
-  <h1>Levantamento de Requisitos para um Sistema de Controle de Estacionamento</h1>
-  <p>Base: Estacionamento do Shopping Patio Chapecó</p>
 
-  <h2>Equipe</h2>
+  <h1 align="center">Levantamento de Requisitos para um Sistema de Controle de Estacionamento</h1>
+  <p align="center">Base: Estacionamento do Shopping Patio Chapecó</p>
+
+  <h2 align="center">Equipe</h2>
   <p>Andre Gabrielli da Silva, Arthur Couto Mulling e Gustavo Henrique Teló.</p>
 
+<h1 align="center"> Mapa Mental:<h1>
+<tbody style="width: 25%; border: 2px solid black; text-align: center;">
+    <tr>
+        <td>
+            <img
+                src="https://github.com/radamesp7/2024_G4_EnSoft_I/blob/main/mapa-mental.png"
+                style="width: 500px; height: 450px; margin: 0 auto;"
 
 <section>
 
@@ -13,21 +22,14 @@
 <h3><strong>Administradores do Estacionamento</strong></h3>
 <h3><strong>Equipe de Manutenção</strong></h3>
 <h3><strong>Equipe de Segurança</strong></h3>
-
-</section>
-
-  <h1>Descrição do Sistema Atual</h1>
-  <p>O estacionamento controla o momento de entrada e saída dos veículos utilizando um cartão que é emitido antes da entrada, abrindo a catraca para dar passagem e recolhido antes da saída. Após a retirada do cartão e entrada do veículo, o sistema contabiliza o tempo em que o veículo permaneceu dentro do estacionamento e cobra uma taxa fixa após 15 (quinze) minutos da entrada.</p>
-  <p>As vagas dentro do estacionamento possuem um sensor para monitoramento das vagas ocupadas, mostrando uma luz verde em caso de vaga livre e uma luz vermelha em caso de vaga ocupada, também possuindo uma luz amarela para vagas preferenciais. Para a saída do veículo, será necessário pagar a taxa registrada por tempo no cartão, permitindo a devolução do cartão no momento da saída do veículo somente se a taxa for paga, assim abrindo a catraca. Caso contrário, o cartão será recusado.</p>
-<p>O pagamento da taxa poderá ser feito dentro do shopping em algumas maquinas/computadores cujo permitem efetuar o pagamento da taxa do cartão por meio delas. O pagamento também pode ser feito com a atendente a qual fica na entrada, ou saida, do shopping em frente ao estacionamento no segundo andar.</p>
-
+<h3><strong>Atendente</strong></h3>
 
 <section>
-    <h2>Perguntas Feitas em Entrevistas/Respostas</h2>
+    <h2 align="center">Perguntas Feitas em Entrevistas/Respostas</h2>
     <table border="1" cellpadding="8" cellspacing="0">
       <thead>
         <tr>
-          <th style="width: 25%;">Pergunta</th>
+          <th style="width: 25%;" align="center">Pergunta</th>
           <th>Resposta</th>
         </tr>
       </thead>
@@ -46,12 +48,13 @@
     </table>
   </section>
 
+
   <section>
-    <h2>Pontos Críticos</h2>
+    <h2 align="center">Pontos Críticos</h2>
     <table border="1" cellpadding="8" cellspacing="0">
       <thead>
         <tr>
-          <th>Ponto Crítico</th>
+          <th>Descrição</th>
         </tr>
       </thead>
       <tr>
@@ -64,11 +67,11 @@
   </section>
 
   <section>
-    <h2>Áreas para Melhorias</h2>
+    <h2 align="center">Áreas para Melhorias</h2>
     <table border="1" cellpadding="8" cellspacing="0">
       <thead>
         <tr>
-          <th>Área para Melhoria</th>
+          <th>Descrição</th>
         </tr>
       </thead>
       <tr>
@@ -81,11 +84,11 @@
   </section>
 
   <section>
-    <h2>Funcionalidades Adicionais</h2>
+    <h2 align="center">Funcionalidades Adicionais</h2>
     <table border="1" cellpadding="8" cellspacing="0">
       <thead>
         <tr>
-          <th>Funcionalidade</th>
+          <th>Descrição</th>
         </tr>
       </thead>
       <tr>
@@ -102,8 +105,8 @@
     </table>
   </section>
 
-  <section>
-    <h2>Requisitos Funcionais</h2>
+<section>
+    <h2 align="center">Requisitos Funcionais</h2>
     <table border="1" cellpadding="8" cellspacing="0">
       <tr>
         <th style="width: 25%;">Título</th>
@@ -134,7 +137,7 @@
   </section>
 
   <section>
-    <h2>Requisitos Não Funcionais</h2>
+    <h2 align="center">Requisitos Não Funcionais</h2>
     <table border="1" cellpadding="8" cellspacing="0">
       <tr>
         <th style="width: 25%;">Título</th>
@@ -172,13 +175,29 @@
   </section>
 </body>
 
-<h1> Diagrama de caso de uso:
-<h2>
+</section>
+
+  <h1 align="center">Descrição do Sistema Atual</h1>
+  <p>O administrador do estacionamento controla o momento de entrada e saída dos veículos, o motorista aperta um botão na cancela no momento de entrada emitindo um cartão, abrindo a cancela para dar passagem e o cartão é recolhido antes da saída. Após a retirada do cartão e entrada do veículo, o sistema contabiliza o tempo em que o veículo permaneceu dentro do estacionamento e cobra uma taxa fixa após 15 (quinze) minutos da entrada.</p>
+  <p>As vagas dentro do estacionamento possuem um sensor para monitoramento das vagas ocupadas, mostrando uma luz verde em caso de vaga livre e uma luz vermelha em caso de vaga ocupada, também possuindo uma luz amarela para vagas preferenciais. Para a saída do veículo, será necessário pagar a taxa registrada por tempo no cartão, permitindo a devolução do cartão no momento da saída do veículo somente se a taxa for paga, assim abrindo a cancela. Caso contrário, o cartão será recusado.</p>
+ <p>O pagamento da taxa poderá ser feito dentro do shopping em algumas maquinas/computadores cujo permitem efetuar o pagamento da taxa do cartão por meio delas. O pagamento também pode ser feito com a atendente a qual fica na entrada, ou saída, do shopping em frente ao estacionamento no segundo andar.</p>
+ <p>A equipe de manutenção é responsável por manter o sistema funcionando, evitar e concertar possíveis erros, mantendo a segurança do estacionamento. A equipe de segurança que executa revisões e rondas pelo estacionamento para garantir a segurança dos veículos e usuários no estacionamento, caso localizem algum problema de segurança envolvendo o sistema do estacionamento, este problema será reportado para a equipe de manutenção.
+
+
+<h1 align="center"> Diagrama de caso de uso:<h1>
 <tbody style="width: 25%; border: 2px solid black; text-align: center;">
     <tr>
         <td>
             <img
-                src="Diagrama do Estacionamento.jpg"
+                src="https://github.com/radamesp7/2024_G4_EnSoft_I/blob/main/Diagrama%20do%20Estacionamento.jpg"
+                style="width: 500px; height: 450px; margin: 0 auto;"
+
+<h1 align="center"> UML de Dominio:<h1>
+<tbody style="width: 25%; border: 2px solid black; text-align: center;">
+    <tr>
+        <td>
+            <img
+                src="https://github.com/radamesp7/2024_G4_EnSoft_I/blob/main/UML_Dominio.png"
                 style="width: 500px; height: 450px; margin: 0 auto;"
             />
         </td>
@@ -186,3 +205,4 @@
     <tr>
     </tr>
 </tbody>
+</html>
